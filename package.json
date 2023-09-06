@@ -1,0 +1,19 @@
+{
+  "name": "happy-dom-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "happy-dom": "^10.11.2",
+    "jsdom": "^22.1.0",
+    "vitest": "^0.34.3"
+  },
+  "devDependencies": {
+    "node-stdlib-browser": "^1.2.0"
+  }
+}
